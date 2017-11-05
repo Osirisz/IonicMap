@@ -85,4 +85,9 @@
     <plugin name="cordova-plugin-googlemaps" spec="^2.1.1">
         <variable name="API_KEY_FOR_ANDROID" value="AIzaSyBqRDohLDiZfNLBGNkVtFxWtDIHggr5f5M" />
     </plugin>
+    <plugin name="cordova-plugin-facebook4" spec="^1.9.1">
+        <variable name="APP_ID" value="870963193066675" />
+        <variable name="APP_NAME" value="ninjavan" />
+    </plugin>
+    <plugin name="cordova-plugin-geolocation" spec="^2.4.3" />
 </widget>
